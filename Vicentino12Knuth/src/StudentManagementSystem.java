@@ -28,9 +28,9 @@ public class StudentManagementSystem {
 }
  
 
-class Main {
+class StudentManagementSystemTest {
     public static void main(String[] args) {
-        StudentManagementSystem student1 = new StudentManagementSystem("John Doe", 18, 90.0);
+        StudentManagementSystem student1 = new StudentManagementSystem("Muj", 18, 90.0);
  
         student1.displayStudent();
  
